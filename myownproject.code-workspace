@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../schoolwebsite"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "myownproject"
+	}
+}
